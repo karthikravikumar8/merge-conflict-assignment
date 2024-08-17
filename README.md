@@ -1,2 +1,2 @@
 # merge-conflict-assignment
-modified from branch1 (one)
+modified from branch2 (Two) resolving conflict
